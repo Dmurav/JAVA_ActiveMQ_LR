@@ -11,6 +11,7 @@
     <FileEntry Name="QueueHandlerJVU.usr" Filter="4" />
     <FileEntry Name="default.cfg" Filter="4" />
     <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Action.c" Filter="1" />
     <FileEntry Name="Actions$1.class" Filter="1" />
     <FileEntry Name="Actions$1Consumer.class" Filter="1" />
@@ -30,9 +31,11 @@
     <FileEntry Name="QueueHandlerJVU.sdf" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="1" />
     <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="vuser_end.c" Filter="1" />
     <FileEntry Name="vuser_init.c" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>

@@ -2,7 +2,9 @@
  * LoadRunner Java script. (Build: _build_number_)
  * 
  * Script Description: 
- *                     
+ * Скрипт работает с очередью. Producer создаёт сообщение в
+ * первую очередь. Consumer забирает сообщение из первой очереди
+ * и кладёт сообщение во вторую очередь.                     
  */
 
 import lrapi.lr;
